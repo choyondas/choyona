@@ -1,0 +1,9 @@
+*{margin:0;padding:0;}
+
+div#choyon{background: blue;height:200px;text-align: center;color: white;}
+p{margin-top:50px;font-size:18px;}
+
+div#product{background: red;height: 200px;text-align: center;color: white;}
+ul{margin: 15px;}
+div#country{text-align: center;}
+button{margin:15px;}
